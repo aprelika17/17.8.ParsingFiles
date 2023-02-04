@@ -1,0 +1,12 @@
+{
+      "id": 145,
+      "value": "Иванов Виктор",
+      "isMarried": true,
+      "data": {
+        "surname": "Иванов",
+        "name": "Виктор",
+        "patronymic": null,
+        "gender": "MALE",
+        "hobby": ["Swimming", "Shess", "Tennis"]
+    }
+}
